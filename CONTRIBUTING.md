@@ -9,4 +9,4 @@ Thank you for considering contributing to the Agile Coaching Platform! We welcom
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a Pull Request.
 
-Please make sure your code adheres to any existing coding style and include comments where necessary.
+Please make sure your code adheres to any existing coding style and include comments where necessary. It is also recommended to run tests and ensure all pass before submitting your Pull Request.
